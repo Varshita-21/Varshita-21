@@ -7,7 +7,7 @@
 > hiya, I'm Varshitha! ✨
 >
 👋 Hi, I'm Varshitha Rodda!
-I'm a Data Engineer & AI Enthusiast passionate about building scalable data systems and deploying AI solutions. My expertise lies in distributed systems, ML pipelines, and cloud infrastructure.
+I'm an Engineer & AI Enthusiast passionate about building scalable data systems and deploying AI solutions. My expertise lies in distributed systems, ML pipelines, and cloud infrastructure.
 
 💻 I have hands-on experience working with LLMs, data engineering pipelines, and big data systems, and I've built projects like an AI-powered health chatbot and autonomous ML agents.
 📚 When not working on systems, I enjoy reading system design papers, and attending tech talks!
